@@ -3,15 +3,15 @@
   <img 
     src="./Banner.png" 
     alt="Banner Ricardo Palomino" 
-    width="100%" 
     style="
-      max-width:1200px; 
-      height:auto; 
-      max-height:450px; /* 👈 reduce la altura */
-      border-radius:16px; 
-      object-fit:cover; 
+      width:100%;
+      max-width:1100px;
+      height:auto;
+      max-height:230px;
+      border-radius:14px;
+      object-fit:cover;
       box-shadow:0 0 25px rgba(0,200,255,0.25);
-    " 
+    "
   />
 </p>
 
