@@ -1,6 +1,6 @@
 <!-- ===== BANNER PRINCIPAL ===== -->
 <p align="center">
-  <img src="./banner.png" alt="Banner Ricardo Palomino" width="100%" style="max-width:1200px; border-radius:16px; box-shadow:0 0 25px rgba(0,200,255,0.25);" />
+  <img src="./Banner.png" alt="Banner Ricardo Palomino" width="100%" style="max-width:1200px; border-radius:16px; box-shadow:0 0 25px rgba(0,200,255,0.25);" />
 </p>
 
 <!-- ===== TÍTULO ===== -->
