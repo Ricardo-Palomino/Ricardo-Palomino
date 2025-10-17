@@ -1,7 +1,20 @@
 <!-- ===== BANNER PRINCIPAL ===== -->
 <p align="center">
-  <img src="./Banner.png" alt="Banner Ricardo Palomino" width="100%" style="max-width:1200px; border-radius:16px; box-shadow:0 0 25px rgba(0,200,255,0.25);" />
+  <img 
+    src="./Banner.png" 
+    alt="Banner Ricardo Palomino" 
+    width="100%" 
+    style="
+      max-width:1200px; 
+      height:auto; 
+      max-height:450px; /* 👈 reduce la altura */
+      border-radius:16px; 
+      object-fit:cover; 
+      box-shadow:0 0 25px rgba(0,200,255,0.25);
+    " 
+  />
 </p>
+
 
 <!-- ===== TÍTULO ===== -->
 <h1 align="center" style="font-size: 3em; font-weight:900; background: linear-gradient(135deg,#00e0ff,#00aaff); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">
