@@ -64,34 +64,33 @@ Combino pensamiento crítico, atención al detalle y ejecución ágil para entre
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔐 API REST Escalable</h4>
-      <p><strong>Proyecto-A</strong> — API de alto rendimiento con autenticación JWT y CI/CD.</p>
-      <p><code>Node.js</code> • <code>Express</code> • <code>PostgreSQL</code> • <code>Docker</code></p>
-      <a href="https://github.com/tu-usuario/proyecto-a">🔗 Ver Repositorio</a>
+      <h4>🏋️ GymMaster CLI</h4>
+      <p>CLI interactiva en Node.js con MongoDB e Inquirer.js: CRUD completo, transacciones atómicas y consultas avanzadas para gestionar socios de un gimnasio desde la terminal.</p>
+      <p><code>Node.js</code> • <code>MongoDB</code> • <code>Inquirer.js</code></p>
+      <a href="https://github.com/DanielSantiagoV/GymMaster_CLI">🔗 Ver Repositorio</a>
     </td>
     <td width="50%" valign="top">
-      <h4>⚡ Dashboard Moderno</h4>
-      <p><strong>Proyecto-B</strong> — SPA con SSR, optimización SEO y diseño responsivo.</p>
-      <p><code>React</code> • <code>Next.js</code> • <code>TypeScript</code> • <code>Tailwind</code></p>
-      <a href="https://github.com/Ricardo-Palomino">🔗 Ver Repositorio</a>
+      <h4>🎓 INNOVA-ASISTE</h4>
+      <p>Herramienta en Python que centraliza el registro, edición y consulta de asistencias estudiantiles, con un enfoque simple y educativo.</p>
+      <p><code>Python</code> • <code>CLI</code> • <code>JSON</code></p>
+      <a href="https://github.com/Ricardo-Palomino/INNOVA-ASISTE">🔗 Ver Repositorio</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔄 Pipeline ETL Automatizado</h4>
-      <p><strong>Proyecto-C</strong> — Procesamiento de datos asíncrono con monitoreo inteligente.</p>
-      <p><code>Python</code> • <code>Celery</code> • <code>Redis</code> • <code>Airflow</code></p>
-      <a href="https://github.com/tu-usuario/proyecto-c">🔗 Ver Repositorio</a>
+      <h4>📊 DataFlix</h4>
+      <p>Plataforma web con cursos, quizzes interactivos y seguimiento de progreso para aprender bases de datos desde cero.</p>
+      <p><code>HTML</code> • <code>CSS</code> • <code>JavaScript</code></p>
+      <a href="https://github.com/DanielSantiagoV/DataFlix">🔗 Ver Repositorio</a>
     </td>
     <td width="50%" valign="top">
-      <h4>📱 Aplicación Móvil</h4>
-      <p><strong>Proyecto-D</strong> — App multiplataforma con sincronización en tiempo real.</p>
-      <p><code>React Native</code> • <code>Firebase</code> • <code>Expo</code></p>
-      <a href="https://github.com/tu-usuario/proyecto-d">🔗 Ver Repositorio</a>
+      <h4>🛒 ShopVerse</h4>
+      <p>Tienda en línea conectada a la FakeStore API, con catálogo, filtros y una experiencia visual y responsiva de compra.</p>
+      <p><code>HTML</code> • <code>CSS</code> • <code>JavaScript</code> • <code>Tailwind</code></p>
+      <a href="https://github.com/Ricardo-Palomino/proyecto-de-Javascript">🔗 Ver Repositorio</a>
     </td>
   </tr>
 </table>
-
 ---
 
 ### 📊 Estadísticas y Actividad
