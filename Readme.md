@@ -1,17 +1,10 @@
 <!-- ===== BANNER PRINCIPAL ===== -->
+<!-- ===== BANNER PRINCIPAL ===== -->
 <p align="center">
   <img 
     src="./Banner_v2.png" 
     alt="Banner Ricardo Palomino" 
-    style="
-      width:100%;
-      max-width:1100px;
-      height:auto;
-      max-height:100px;
-      border-radius:14px;
-      object-fit:cover;
-      box-shadow:0 0 25px rgba(0,200,255,0.25);
-    "
+    width="600"
   />
 </p>
 
