@@ -4,7 +4,7 @@
   <img 
     src="./Banner_v2.png" 
     alt="Banner Ricardo Palomino" 
-    width="600"
+    width="900"
   />
 </p>
 
